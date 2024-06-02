@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <g>
+    <line class="cls-1" x1="0" y1="32.28" x2="1440" y2="32.28"/>
+    <line class="cls-1" x1="0" y1="81.42" x2="1440" y2="81.42"/>
+    <line class="cls-1" y1="130.56" x2="1440" y2="130.56"/>
+    <line class="cls-1" y1="179.71" x2="1440" y2="179.71"/>
+    <line class="cls-1" y1="228.85" x2="1440" y2="228.85"/>
+    <line class="cls-1" y1="278" x2="1440" y2="278"/>
+    <line class="cls-1" y1="327.14" x2="1440" y2="327.14"/>
+    <line class="cls-1" y1="376.28" x2="1440" y2="376.28"/>
+    <line class="cls-1" y1="425.43" x2="1440" y2="425.43"/>
+    <line class="cls-1" y1="474.57" x2="1440" y2="474.57"/>
+    <line class="cls-1" y1="523.72" x2="1440" y2="523.72"/>
+    <line class="cls-1" y1="572.86" x2="1440" y2="572.86"/>
+    <line class="cls-1" y1="622" x2="1440" y2="622"/>
+    <line class="cls-1" y1="671.15" x2="1440" y2="671.15"/>
+    <line class="cls-1" y1="720.29" x2="1440" y2="720.29"/>
+    <line class="cls-1" y1="769.44" x2="1440" y2="769.44"/>
+    <line class="cls-1" y1="818.58" x2="1440" y2="818.58"/>
+    <line class="cls-1" y1="867.72" x2="1440" y2="867.72"/>
+  </g>
+  <g>
+    <line class="cls-1" x1="42.73" x2="42.73" y2="900"/>
+    <line class="cls-1" x1="139.49" x2="139.49" y2="900"/>
+    <line class="cls-1" x1="236.24" x2="236.24" y2="900"/>
+    <line class="cls-1" x1="332.99" x2="332.99" y2="900"/>
+    <line class="cls-1" x1="429.74" x2="429.74" y2="900"/>
+    <line class="cls-1" x1="526.5" x2="526.5" y2="900"/>
+    <line class="cls-1" x1="623.25" x2="623.25" y2="900"/>
+    <line class="cls-1" x1="720" x2="720" y2="900"/>
+    <line class="cls-1" x1="816.75" x2="816.75" y2="900"/>
+    <line class="cls-1" x1="913.5" x2="913.5" y2="900"/>
+    <line class="cls-1" x1="1010.26" x2="1010.26" y2="900"/>
+    <line class="cls-1" x1="1107.01" x2="1107.01" y2="900"/>
+    <line class="cls-1" x1="1203.76" x2="1203.76" y2="900"/>
+    <line class="cls-1" x1="1300.51" x2="1300.51" y2="900"/>
+    <line class="cls-1" x1="1397.27" x2="1397.27" y2="900"/>
+  </g>
+</svg>
